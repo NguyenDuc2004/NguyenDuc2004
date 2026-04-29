@@ -14,3 +14,6 @@
 * Java (Servlet, Spring Boot)
 * React, Redux
 * MySQL
+
+* ## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=NguyenDuc2004&show_icons=true&theme=tokyonight)
