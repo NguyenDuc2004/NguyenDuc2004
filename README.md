@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**NguyenDuc2004/NguyenDuc2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Nguyen Duc
 
-Here are some ideas to get you started:
+🎓 IT Student | Backend / Fullstack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+* 🛒 Nike Shop (React + Redux)
+* 🚗 Vinfast Rental (Servlet + JDBC + MySQL)
+
+## 🛠 Tech Stack
+
+* Java (Servlet, Spring Boot)
+* React, Redux
+* MySQL
